@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XML Daten.md",
+                "file": "Begriffe/EN16931.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XML Daten.md",
+                "file": "Begriffe/EN16931.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XML Daten.md",
+                "file": "Begriffe/EN16931.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XML Daten.md"
+                "file": "Begriffe/EN16931.md"
               }
             }
           },
@@ -156,18 +156,19 @@
   },
   "active": "54da6bd8ef13f287",
   "lastOpenFiles": [
-    "Unbenannt",
-    "XÖV.md",
-    "XSD Daten.md",
-    "XML Daten.md",
-    "Schematron.md",
-    "README.md",
-    "KoSIT.md",
-    "Hybridrechnung.md",
-    "Factur-X.md",
-    "EN16931.md",
-    "CII Schema.md",
+    "klBegriffe/CII Schema.md",
     "Anleitung.md",
+    "klBegriffe/Factur-X.md",
+    "Formatvorlage ERechnung.md",
+    "Begriffe/Hybridrechnung.md",
+    "klBegriffe/XML Daten.md",
+    "klBegriffe",
+    "klBegriffe/XÖV.md",
+    "klBegriffe/XSD Daten.md",
+    "klBegriffe/Schematron.md",
+    "README.md",
+    "klBegriffe/KoSIT.md",
+    "Begriffe/EN16931.md",
     "Begriffe/XRechnung.md",
     "Begriffe/ZUGFeRD.md",
     "Begriffe/PEPPOL.md",
@@ -182,7 +183,6 @@
     "Bilder",
     "Begriffe",
     "LICENSE",
-    "Formatvorlage ERechnung.md",
     "eer",
     "eRechn"
   ]
