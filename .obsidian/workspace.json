@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formatvorlage ERechnung.md",
+                "file": "Begriffe/Hybridrechnung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formatvorlage ERechnung.md",
+                "file": "Begriffe/Hybridrechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formatvorlage ERechnung.md",
+                "file": "Begriffe/Hybridrechnung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formatvorlage ERechnung.md"
+                "file": "Begriffe/Hybridrechnung.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "316abc25218950a8",
   "lastOpenFiles": [
-    "Anleitung.md",
     "Formatvorlage ERechnung.md",
+    "Anleitung.md",
     "README.md",
     "Begriffe/PEPPOL.md",
     "Begriffe/XRechnung.md",
