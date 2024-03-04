@@ -1,0 +1,1 @@
+Beispieldokus kann unter diesem Verzeichnis gefunden werden: E-Rechnung und ZUGFeRD\Material\zugferd22\DE\Dokumentation

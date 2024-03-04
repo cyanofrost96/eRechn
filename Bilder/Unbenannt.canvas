@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"9164bd0ac4b9205a","type":"file","file":"Bilder/pic.LeitwegID.png","x":-240,"y":-120,"width":400,"height":66},
+		{"id":"fb84c120b32d5e7b","x":-240,"y":-440,"width":400,"height":276,"type":"file","file":"Bilder/pic.Peppol.png"}
+	],
+	"edges":[]
+}

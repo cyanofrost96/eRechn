@@ -1,0 +1,1 @@
+steht für Koordinierungsstelle für IT-Standards
