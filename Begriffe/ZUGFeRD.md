@@ -1,7 +1,9 @@
 steht für Zentraler User Guide des Forums elektronische Rechnung Deutschland, ist eine Art von [[CIUS]] (Core Invoice User Specification)
+Quelle: [ZUGFeRD-Anbieter](https://www.ferd-net.de/standards/zugferd-anbieter/startartikel-mit-teaserfunktion.html?acceptCookie=1) [ZUGFeRD Community](https://www.zugferd-community.net/de/blog)
 
-Eine ZUGFeRD-Rechnung besteht aus einem sog. hybriden Datenformat. Augenscheinlich besteht eine ZUGFeRD-Rechnung aus einer PDF-Datei. Diese stellt die Sichtkomponente der Rechnung dar. Gleichzeitig wird ein inhaltlich identisches Mehrstück derselben Rechnung als XML-Datei innerhalb des PDF als eingebetteter Anhang mitversandt. 3 Die elektronische Verarbeitung der Rechnung kann über die strukturierten Rechnungsdaten der XML-Datei erfolgen. Viele Buchhaltungs- und ERP-Softwaresysteme unterstützen bereits die Verarbeitung von ZUGFeRD.
+Eine ZUGFeRD-Rechnung besteht aus einem sog. hybriden Datenformat. Augenscheinlich besteht eine ZUGFeRD-Rechnung aus einer PDF-Datei. Diese stellt die Sichtkomponente der Rechnung dar. Gleichzeitig wird ein inhaltlich identisches Mehrstück derselben Rechnung als XML-Datei innerhalb des PDF als eingebetteter Anhang mitversandt. 3 Die elektronische Verarbeitung der Rechnung kann über die strukturierten Rechnungsdaten der XML-Datei erfolgen. Viele Buchhaltungs- und ERP-Softwaresysteme unterstützen bereits die Verarbeitung von ZUGFeRD.
 
+Copilot Suche:
 **ZUGFeRD (Zentraler User Guide des Forums elektronische Rechnung Deutschland)**:
 - **Origin**: ZUGFeRD is issued by the **Forum elektronische Rechnung Deutschland** with support from the **German Federal Ministry for Economic Affairs and Energy (BMWi)**.
 - **Use Case**: It is particularly recommended for digital invoicing between **businesses**.

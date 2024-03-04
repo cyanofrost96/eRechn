@@ -1,5 +1,5 @@
 Ein "neues" .pdf Format mit .xml eingebettet.
-
+Quelle: [Leitfaden zur Anwendung von ZUGFeRD/Factur-X (gs1-germany.de)](https://www.gs1-germany.de/fileadmin/gs1/fachpublikationen/Leitfaden-zur-Anwendung-von-ZUGFeRD-Factur-X.pdf)
 
 Das hybride Rechnungsformat definiert sich als die Zusammenführung beider Welten: des menschenlesbaren Rechnungsdokuments mit dem maschinenlesbaren Rechnungsdatensatz
 
