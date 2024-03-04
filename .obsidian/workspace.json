@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Begriffe/PEPPOL.md",
+                "file": "Formatvorlage ERechnung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Begriffe/PEPPOL.md",
+                "file": "Formatvorlage ERechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Begriffe/PEPPOL.md",
+                "file": "Formatvorlage ERechnung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Begriffe/PEPPOL.md"
+                "file": "Formatvorlage ERechnung.md"
               }
             }
           },
@@ -156,23 +156,23 @@
   },
   "active": "316abc25218950a8",
   "lastOpenFiles": [
+    "Anleitung.md",
+    "Formatvorlage ERechnung.md",
+    "README.md",
+    "Begriffe/PEPPOL.md",
     "Begriffe/XRechnung.md",
     "Begriffe/Hybridrechnung.md",
     "Begriffe/EN16931.md",
     "Begriffe/CIUS.md",
     "klBegriffe/CII Schema.md",
-    "Anleitung.md",
     "klBegriffe/Factur-X.md",
-    "Formatvorlage ERechnung.md",
     "klBegriffe/XML Daten.md",
     "klBegriffe",
     "klBegriffe/XÖV.md",
     "klBegriffe/XSD Daten.md",
     "klBegriffe/Schematron.md",
-    "README.md",
     "klBegriffe/KoSIT.md",
     "Begriffe/ZUGFeRD.md",
-    "Begriffe/PEPPOL.md",
     "sides/GitHub.md",
     "Welcome.md",
     "Unbenannt.md",
