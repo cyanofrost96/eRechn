@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTIN.md",
+                "file": "Begriffe/ZUGFeRD.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTIN.md",
+                "file": "Begriffe/ZUGFeRD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTIN.md",
+                "file": "Begriffe/ZUGFeRD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTIN.md"
+                "file": "Begriffe/ZUGFeRD.md"
               }
             }
           },
@@ -205,29 +205,29 @@
   },
   "active": "7c88824820307521",
   "lastOpenFiles": [
-    "Profilklasse.md",
-    "PDFa3.md",
-    "GTIN.md",
-    "GLN.md",
     "Begriffe/XRechnung.md",
-    "klBegriffe/Schematron.md",
-    "EAS code list.md",
-    "README.md",
-    "Begriffe/ZUGFeRD.md",
-    "Begriffe/Hybridrechnung.md",
-    "Formatvorlage ERechnung.md",
-    "Begriffe/EN16931.md",
     "Begriffe/PEPPOL.md",
-    "Anleitung.md",
+    "Begriffe/Hybridrechnung.md",
+    "Begriffe/EN16931.md",
     "Begriffe/CIUS.md",
-    "klBegriffe/CII Schema.md",
-    "klBegriffe/Factur-X.md",
     "klBegriffe/XML Daten.md",
-    "klBegriffe",
+    "klBegriffe/Schematron.md",
+    "klBegriffe/KoSIT.md",
+    "klBegriffe/Factur-X.md",
+    "klBegriffe/CII Schema.md",
+    "sides/GitHub.md",
     "klBegriffe/XÖV.md",
     "klBegriffe/XSD Daten.md",
-    "klBegriffe/KoSIT.md",
-    "sides/GitHub.md",
+    "Anleitung.md",
+    "EAS code list.md",
+    "Formatvorlage ERechnung.md",
+    "GLN.md",
+    "GTIN.md",
+    "PDFa3.md",
+    "Profilklasse.md",
+    "README.md",
+    "Begriffe/ZUGFeRD.md",
+    "klBegriffe",
     "Welcome.md",
     "sides",
     "Bilder/Unbenannt.canvas",
