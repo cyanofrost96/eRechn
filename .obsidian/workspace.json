@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Begriffe/XRechnung.md",
+                "file": "GTIN.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Begriffe/XRechnung.md",
+                "file": "GTIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Begriffe/XRechnung.md",
+                "file": "GTIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Begriffe/XRechnung.md"
+                "file": "GTIN.md"
               }
             }
           },
@@ -206,15 +205,15 @@
   },
   "active": "7c88824820307521",
   "lastOpenFiles": [
-    "klBegriffe/Schematron.md",
-    "Begriffe/XRechnung.md",
+    "Profilklasse.md",
+    "PDFa3.md",
     "GTIN.md",
     "GLN.md",
+    "Begriffe/XRechnung.md",
+    "klBegriffe/Schematron.md",
     "EAS code list.md",
     "README.md",
-    "Profilklasse.md",
     "Begriffe/ZUGFeRD.md",
-    "PDFa3.md",
     "Begriffe/Hybridrechnung.md",
     "Formatvorlage ERechnung.md",
     "Begriffe/EN16931.md",
