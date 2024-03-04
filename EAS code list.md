@@ -1,2 +1,2 @@
 Electronic Address Scheme basiert auf die [[EN16931]]
-hier checken um die aktuellste zu finden : 
+hier checken um die aktuellste zu finden : [Registry of supporting artefacts to implement EN16931 (europa.eu)](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/Registry+of+supporting+artefacts+to+implement+EN16931)
