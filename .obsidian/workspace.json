@@ -109,17 +109,6 @@
             }
           },
           {
-            "id": "1f8cb1602f27b090",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "7ac6e1d0e8ec881f",
             "type": "leaf",
             "state": {
@@ -136,13 +125,24 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "1f8cb1602f27b090",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,8 +154,10 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "316abc25218950a8",
+  "active": "1f8cb1602f27b090",
   "lastOpenFiles": [
+    "CII Schema.md",
+    "Anleitung.md",
     "sides",
     "Bilder/Unbenannt.canvas",
     "Bilder/pic.Peppol.png",
@@ -167,7 +169,6 @@
     "Begriffeu.Erklärungen/CIUS.md",
     "Begriffeu.Erklärungen",
     "Welcome.md",
-    "Anleitung.md",
     "Unbenannt.md",
     "XSD Daten.md",
     "XÖV.md",
@@ -181,7 +182,6 @@
     "Formatvorlage ERechnung.md",
     "Factur-X.md",
     "EN16931.md",
-    "CII Schema.md",
     "eer",
     "eRechn"
   ]
