@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAS code list.md",
+                "file": "GTIN.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EAS code list.md",
+                "file": "GTIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EAS code list.md",
+                "file": "GTIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EAS code list.md"
+                "file": "GTIN.md"
               }
             }
           },
@@ -205,15 +205,15 @@
   },
   "active": "7c88824820307521",
   "lastOpenFiles": [
+    "GLN.md",
+    "GTIN.md",
+    "EAS code list.md",
     "README.md",
     "Profilklasse.md",
-    "GTIN.md",
     "Begriffe/ZUGFeRD.md",
-    "EAS code list.md",
     "PDFa3.md",
     "Begriffe/Hybridrechnung.md",
     "Formatvorlage ERechnung.md",
-    "GLN.md",
     "Begriffe/XRechnung.md",
     "Begriffe/EN16931.md",
     "Begriffe/PEPPOL.md",
