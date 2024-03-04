@@ -8,78 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "316abc25218950a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Begriffe/Hybridrechnung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a87afcd694c2422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PDFa3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2317828523725c8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAS code list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fa33d4dcddd3289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Begriffe/ZUGFeRD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7c88824820307521",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "klBegriffe/CII Schema.md",
+                "file": "Anleitung.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "98e271dbd28b094f",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anleitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Anleitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Anleitung.md"
+              }
             }
           },
           {
@@ -210,9 +154,16 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "98e271dbd28b094f",
+  "active": "7c88824820307521",
   "lastOpenFiles": [
+    "EAS code list.md",
+    "Formatvorlage ERechnung.md",
     "Anleitung.md",
+    "Profilklasse.md",
+    "klBegriffe/GLN.md",
+    "Begriffe/PDFa3.md",
+    "klBegriffe/GTIN.md",
+    "klBegriffe/CII Schema.md",
     "XMLsachen/XML Daten.md",
     "XMLsachen/XÖV.md",
     "XMLsachen/XSD.md",
@@ -220,19 +171,12 @@
     "Begriffe/ZUGFeRD.md",
     "Begriffe/CIUS.md",
     "XMLsachen",
-    "PDFa3.md",
-    "Profilklasse.md",
-    "GTIN.md",
-    "GLN.md",
-    "klBegriffe/CII Schema.md",
     "klBegriffe/Factur-X.md",
     "klBegriffe/KoSIT.md",
     "klBegriffe/Schematron.md",
     "Begriffe/EN16931.md",
     "Begriffe/Hybridrechnung.md",
     "README.md",
-    "EAS code list.md",
-    "Formatvorlage ERechnung.md",
     "Begriffe/PEPPOL.md",
     "Begriffe/XRechnung.md",
     "sides/GitHub.md",
