@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c88824820307521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unbenannt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Begriffe/ZUGFeRD.md",
+                "file": "Unbenannt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Begriffe/ZUGFeRD.md",
+                "file": "Unbenannt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Begriffe/ZUGFeRD.md"
+                "file": "Unbenannt.md"
               }
             }
           },
@@ -191,10 +203,11 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "0fa33d4dcddd3289",
+  "active": "7c88824820307521",
   "lastOpenFiles": [
-    "Begriffe/XRechnung.md",
     "Begriffe/ZUGFeRD.md",
+    "Unbenannt.md",
+    "Begriffe/XRechnung.md",
     "Begriffe/Hybridrechnung.md",
     "Begriffe/EN16931.md",
     "Begriffe/PEPPOL.md",
