@@ -71,11 +71,10 @@
             "id": "98e271dbd28b094f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "klBegriffe/XSD Daten.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -146,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "klBegriffe/XSD Daten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "klBegriffe/XSD Daten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "klBegriffe/XSD Daten.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,29 +212,30 @@
   },
   "active": "98e271dbd28b094f",
   "lastOpenFiles": [
-    "klBegriffe/XÖV.md",
-    "klBegriffe/XML Daten.md",
-    "klBegriffe/XLST.md",
-    "klBegriffe/XSD Daten.md",
+    "Anleitung.md",
+    "XMLsachen/XML Daten.md",
+    "XMLsachen/XÖV.md",
+    "XMLsachen/XSD.md",
+    "XMLsachen/XLST.md",
+    "Begriffe/ZUGFeRD.md",
+    "Begriffe/CIUS.md",
+    "XMLsachen",
+    "PDFa3.md",
+    "Profilklasse.md",
+    "GTIN.md",
+    "GLN.md",
     "klBegriffe/CII Schema.md",
     "klBegriffe/Factur-X.md",
     "klBegriffe/KoSIT.md",
     "klBegriffe/Schematron.md",
     "Begriffe/EN16931.md",
     "Begriffe/Hybridrechnung.md",
-    "Profilklasse.md",
     "README.md",
-    "GTIN.md",
-    "PDFa3.md",
-    "Anleitung.md",
     "EAS code list.md",
     "Formatvorlage ERechnung.md",
     "Begriffe/PEPPOL.md",
     "Begriffe/XRechnung.md",
-    "Begriffe/ZUGFeRD.md",
-    "Begriffe/CIUS.md",
     "sides/GitHub.md",
-    "GLN.md",
     "klBegriffe",
     "Welcome.md",
     "sides",
