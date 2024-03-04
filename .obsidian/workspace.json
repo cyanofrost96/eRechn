@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "schematron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,6 +206,8 @@
   },
   "active": "7c88824820307521",
   "lastOpenFiles": [
+    "klBegriffe/Schematron.md",
+    "Begriffe/XRechnung.md",
     "GTIN.md",
     "GLN.md",
     "EAS code list.md",
@@ -214,7 +217,6 @@
     "PDFa3.md",
     "Begriffe/Hybridrechnung.md",
     "Formatvorlage ERechnung.md",
-    "Begriffe/XRechnung.md",
     "Begriffe/EN16931.md",
     "Begriffe/PEPPOL.md",
     "Anleitung.md",
@@ -225,7 +227,6 @@
     "klBegriffe",
     "klBegriffe/XÖV.md",
     "klBegriffe/XSD Daten.md",
-    "klBegriffe/Schematron.md",
     "klBegriffe/KoSIT.md",
     "sides/GitHub.md",
     "Welcome.md",
