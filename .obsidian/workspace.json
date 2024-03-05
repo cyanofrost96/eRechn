@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Begriffe/EN16931.md",
+                "file": "XMLsachen/XML.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Begriffe/EN16931.md",
+                "file": "XMLsachen/XML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Begriffe/EN16931.md",
+                "file": "XMLsachen/XML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Begriffe/EN16931.md"
+                "file": "XMLsachen/XML.md"
               }
             }
           },
@@ -168,19 +168,23 @@
   },
   "active": "5834f6a392aeaba1",
   "lastOpenFiles": [
+    "Begriffe/ZUGFeRD.md",
+    "XMLsachen/XML.md",
+    "XML.md",
+    "klBegriffe/Schematron.md",
+    "klBegriffe/KoSIT.md",
+    "klBegriffe/GTIN.md",
+    "klBegriffe/GLN.md",
+    "klBegriffe/Factur-X.md",
+    "klBegriffe/CII Schema.md",
+    "EAS code list.md",
+    "Begriffe/EN16931.md",
     "Begriffe/CIUS.md",
     "Literatur.md",
-    "klBegriffe/GLN.md",
-    "klBegriffe/GTIN.md",
     "sides/GitHub.md",
-    "EAS code list.md",
     "Formatvorlage ERechnung.md",
     "Profilklasse.md",
     "README.md",
-    "Begriffe/ZUGFeRD.md",
-    "XMLsachen/XML Daten.md",
-    "XML.md",
-    "Begriffe/EN16931.md",
     "Begriffe/PDFa3.md",
     "Begriffe/Hybridrechnung.md",
     "Begriffe/XRechnung.md",
@@ -188,11 +192,7 @@
     "XMLsachen/XÖV.md",
     "XMLsachen/XSD.md",
     "Anleitung.md",
-    "klBegriffe/CII Schema.md",
     "XMLsachen",
-    "klBegriffe/Factur-X.md",
-    "klBegriffe/KoSIT.md",
-    "klBegriffe/Schematron.md",
     "Begriffe/PEPPOL.md",
     "klBegriffe",
     "Welcome.md",

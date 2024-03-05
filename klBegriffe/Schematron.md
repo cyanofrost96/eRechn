@@ -1,1 +1,1 @@
-Schematron ist eine Sprache zur syntaktischen Beschreibung von XML-Dokumenten. Sie wird genutzt, um Geschäftsregeln für E-Rechnungen abzubilden.
+Schematron ist eine Sprache zur syntaktischen Beschreibung von [XML-Dokumenten](XML Daten). Sie wird genutzt, um Geschäftsregeln für E-Rechnungen abzubilden.
