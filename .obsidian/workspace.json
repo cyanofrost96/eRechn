@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "klBegriffe/GLN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5834f6a392aeaba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literatur.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Literatur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Literatur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Literatur.md"
               }
             }
           },
@@ -153,11 +166,16 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "7c88824820307521",
+  "active": "5834f6a392aeaba1",
   "lastOpenFiles": [
+    "klBegriffe/GLN.md",
+    "Literatur.md",
+    "klBegriffe/GTIN.md",
     "sides/GitHub.md",
-    "Profilklasse.md",
+    "EAS code list.md",
     "Formatvorlage ERechnung.md",
+    "Profilklasse.md",
+    "README.md",
     "Begriffe/ZUGFeRD.md",
     "XMLsachen/XML Daten.md",
     "XML.md",
@@ -169,16 +187,12 @@
     "XMLsachen/XÖV.md",
     "XMLsachen/XSD.md",
     "Anleitung.md",
-    "EAS code list.md",
-    "klBegriffe/GLN.md",
-    "klBegriffe/GTIN.md",
     "klBegriffe/CII Schema.md",
     "Begriffe/CIUS.md",
     "XMLsachen",
     "klBegriffe/Factur-X.md",
     "klBegriffe/KoSIT.md",
     "klBegriffe/Schematron.md",
-    "README.md",
     "Begriffe/PEPPOL.md",
     "klBegriffe",
     "Welcome.md",
