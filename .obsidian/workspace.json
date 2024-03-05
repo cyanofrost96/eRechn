@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3a655d3eb3b154b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literatur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XMLsachen/XML.md",
+                "file": "Literatur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XMLsachen/XML.md",
+                "file": "Literatur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XMLsachen/XML.md"
+                "file": "Literatur.md"
               }
             }
           },
@@ -166,10 +178,11 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "5834f6a392aeaba1",
+  "active": "c3a655d3eb3b154b",
   "lastOpenFiles": [
-    "klBegriffe/Schematron.md",
+    "BT-x.md",
     "XMLsachen/XML.md",
+    "klBegriffe/Schematron.md",
     "Begriffe/ZUGFeRD.md",
     "XML-Dokumenten.md",
     "XML.md",
@@ -194,7 +207,6 @@
     "XMLsachen/XSD.md",
     "Anleitung.md",
     "XMLsachen",
-    "Begriffe/PEPPOL.md",
     "klBegriffe",
     "sides",
     "Bilder/Unbenannt.canvas",
