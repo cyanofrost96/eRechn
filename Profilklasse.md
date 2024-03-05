@@ -1,4 +1,5 @@
 Eine Klassifizierung, wie detailliert die Informationen des eRechnung - Profils / [[ZUGFeRD]] aufgebaut wird.
+Quelle: [Leitfaden zur Anwendung von ZUGFeRD/Factur-X](https://www.gs1-germany.de/fileadmin/gs1/fachpublikationen/Leitfaden-zur-Anwendung-von-ZUGFeRD-Factur-X.pdf)
 
 Um Rechnungssteller bei der Priorisierung ihrer Rechnungsdaten zu unterstützen, wurden alle Geschäftsfelder des semantischen Modells nach Profilen „klassifiziert“, ähnlich wie bei russischen Puppen: (Kategorie 1 und 2 stellen in Deutschland keine vollständigen Rechnungen im Sinne von § 14 UStG dar und können daher nur als Buchungshilfe verwendet werden)
 
