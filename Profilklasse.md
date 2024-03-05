@@ -1,4 +1,4 @@
-Eine Klassifizierung, wie detailliert die Informationen des eRechnung - Profils aufgebaut wird.
+Eine Klassifizierung, wie detailliert die Informationen des eRechnung - Profils / [[ZUGFeRD]] aufgebaut wird.
 
 Um Rechnungssteller bei der Priorisierung ihrer Rechnungsdaten zu unterstützen, wurden alle Geschäftsfelder des semantischen Modells nach Profilen „klassifiziert“, ähnlich wie bei russischen Puppen: (Kategorie 1 und 2 stellen in Deutschland keine vollständigen Rechnungen im Sinne von § 14 UStG dar und können daher nur als Buchungshilfe verwendet werden)
 
@@ -7,4 +7,4 @@ Um Rechnungssteller bei der Priorisierung ihrer Rechnungsdaten zu unterstützen,
 3. **BASIC** Es sind Positionsdaten erforderlich für Lieferanten, die diese Informationen als strukturierte Datensätze erstellen und verarbeiten können. Dieses Profil entspricht der EN 16931. Das bedeutet konkret, dass alle Pflichtfelder zur Verfügung stehen und alle dementsprechende Geschäftsregeln eingehalten werden müssen 
 4. **EN 16931** *Das Standard Profil, auch COMFORT genannt* Alle Kerndaten des europäischen semantischen Standards EN16931, um alle Rechnungs-informationen in einer vollständig strukturierten Form darstellen zu können, sowie die Einhaltung aller Geschäftsregeln der EN 16931. 
 5. **EXTENDED** Alle Kerndaten inklusive der Erweiterungen, die für Sonderfälle nützlich sein können, wenn dies vom Kunden gebraucht wird. Dieses Profil gibt es auch in einer besonderen Teilmenge als EXTENDED FR B2B, um alle Geschäftsvorfälle in Bezug auf französische B2B Mandate sowie elektronische USt-Meldungen in Echtzeit zu erfassen  
-6. **XRECHNUNG** *Referenzprofil* Ein neuer Profiltyp wurde zum ursprünglichen Konzept von Factur-X hinzugefügt, das sogenannte „Referenzprofil“. Damit lassen sich externe XML Strukturen in ein PDF einbinden, so wie beispielsweise die des von der KoSIT verantworteten deutschen Standards XRechnung.
+6. **[[XRECHNUNG]]** *Referenzprofil* Ein neuer Profiltyp wurde zum ursprünglichen Konzept von Factur-X hinzugefügt, das sogenannte „Referenzprofil“. Damit lassen sich externe XML Strukturen in ein PDF einbinden, so wie beispielsweise die des von der KoSIT verantworteten deutschen Standards XRechnung.
