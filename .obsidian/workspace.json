@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literatur.md",
+                "file": "XMLsachen/XSD.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literatur.md",
+                "file": "XMLsachen/XSD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literatur.md",
+                "file": "XMLsachen/XSD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literatur.md"
+                "file": "XMLsachen/XSD.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "c3a655d3eb3b154b",
   "lastOpenFiles": [
+    "Literatur.md",
     "BT-x.md",
     "XMLsachen/XML.md",
     "klBegriffe/Schematron.md",
@@ -194,7 +195,6 @@
     "EAS code list.md",
     "Begriffe/EN16931.md",
     "Begriffe/CIUS.md",
-    "Literatur.md",
     "sides/GitHub.md",
     "Formatvorlage ERechnung.md",
     "Profilklasse.md",
