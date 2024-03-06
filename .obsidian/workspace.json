@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XMLsachen/XSD.md",
+                "file": "Begriffe/ZUGFeRD.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XMLsachen/XSD.md",
+                "file": "Begriffe/ZUGFeRD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XMLsachen/XSD.md",
+                "file": "Begriffe/ZUGFeRD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XMLsachen/XSD.md"
+                "file": "Begriffe/ZUGFeRD.md"
               }
             }
           },
@@ -180,6 +180,13 @@
   },
   "active": "c3a655d3eb3b154b",
   "lastOpenFiles": [
+    "Begriffe/XRechnung.md",
+    "Begriffe/PEPPOL.md",
+    "Begriffe/PDFa3.md",
+    "Begriffe/Hybridrechnung.md",
+    "Begriffe/EN16931.md",
+    "Begriffe/CIUS.md",
+    "XMLsachen/XSD.md",
     "Literatur.md",
     "BT-x.md",
     "XMLsachen/XML.md",
@@ -193,19 +200,12 @@
     "klBegriffe/Factur-X.md",
     "klBegriffe/CII Schema.md",
     "EAS code list.md",
-    "Begriffe/EN16931.md",
-    "Begriffe/CIUS.md",
     "sides/GitHub.md",
     "Formatvorlage ERechnung.md",
     "Profilklasse.md",
     "README.md",
-    "Begriffe/PDFa3.md",
-    "Begriffe/Hybridrechnung.md",
-    "Begriffe/XRechnung.md",
     "XMLsachen/XLST.md",
     "XMLsachen/XÖV.md",
-    "XMLsachen/XSD.md",
-    "Anleitung.md",
     "XMLsachen",
     "klBegriffe",
     "sides",
