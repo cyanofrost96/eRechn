@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e467c85c6f491bc5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +153,7 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "e467c85c6f491bc5",
+  "active": "54da6bd8ef13f287",
   "lastOpenFiles": [
     "Begriffe/PDFa3.md",
     "Begriffe/Hybridrechnung.md",
