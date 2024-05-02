@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a0d4fab70d0f96d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Begriffe/PDFa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Begriffe/XRechnung.md",
+                "file": "Begriffe/PDFa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Begriffe/XRechnung.md",
+                "file": "Begriffe/PDFa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Begriffe/XRechnung.md"
+                "file": "Begriffe/PDFa.md"
               }
             }
           },
@@ -153,9 +166,11 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "54da6bd8ef13f287",
+  "active": "4a0d4fab70d0f96d",
   "lastOpenFiles": [
-    "Begriffe/PDFa3.md",
+    "Unbenannt.md",
+    "Begriffe/XRechnung.md",
+    "Begriffe/PDFa.md",
     "Begriffe/Hybridrechnung.md",
     "Begriffe/EN16931.md",
     "Begriffe/CIUS.md",
@@ -164,7 +179,6 @@
     "Formatvorlage ERechnung.md",
     "Profilklasse.md",
     "EAS code list.md",
-    "Begriffe/XRechnung.md",
     "Begriffe/PEPPOL.md",
     "XMLsachen/XML.md",
     "XMLsachen/XSD.md",
@@ -180,7 +194,6 @@
     "klBegriffe/CII Schema.md",
     "sides/GitHub.md",
     "README.md",
-    "XMLsachen/XLST.md",
     "XMLsachen",
     "klBegriffe",
     "sides",
